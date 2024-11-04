@@ -1,0 +1,4 @@
+﻿  CourPoo_04_11_2024.cpp
+C:\Users\skhemakhem\source\repos\CourPoo_04_11_2024\CourPoo_04_11_2024\CourPoo_04_11_2024.cpp(22,29): warning C4244: '-=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\skhemakhem\source\repos\CourPoo_04_11_2024\CourPoo_04_11_2024\CourPoo_04_11_2024.cpp(38,39): warning C4305: 'argument' : troncation de 'double' à 'float'
+  CourPoo_04_11_2024.vcxproj -> C:\Users\skhemakhem\source\repos\CourPoo_04_11_2024\x64\Debug\CourPoo_04_11_2024.exe
